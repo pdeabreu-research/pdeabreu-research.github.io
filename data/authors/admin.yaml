@@ -1,1 +1,58 @@
+schema: hugoblox/author/v1
+slug: admin
+is_owner: true
 
+name:
+  display: Pedro De Abreu
+  given: Pedro
+  family: De Abreu
+  alternate: ''
+  pronunciation: ''
+pronouns: ''
+postnominals: []
+
+status:
+  icon: "🧮"
+
+role: Research Scholar
+
+bio: >
+  Pedro De Abreu is a research scholar working on artificial intelligence,
+  large-language model reasoning frameworks, and advanced statistical modeling—with
+  a focus on causal inference, identification, interpretability, and reliable
+  decision-making under uncertainty in complex, real-world systems and high-stakes
+  decision contexts.
+
+affiliations:
+  - name: UC Berkeley — Haas School of Business (HIGHER Lab)
+    url: ''
+  - name: Harvard University
+    url: ''
+
+links:
+  - icon: brands/github
+    url: https://github.com/pdeabreu-research
+  - icon: link
+    url: https://pedrodeabreu.ai
+  - icon: at-symbol
+    url: mailto:pedro_de_abreu@mail.harvard.edu
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/pedrod2
+
+interests:
+  - Artificial Intelligence
+  - Large Language Models
+  - Statistical Modeling
+  - Causal Inference and Identification
+  - Interpretability
+  - Decision-Making Under Uncertainty
+
+education:
+  - degree: Ph.D. Organizational Behavior (medical leave)
+    institution: Duke University — Fuqua School of Business
+
+  - degree: M.Ed. Brain and Behavioral Sciences
+    institution: Harvard University
+
+  - degree: B.S. Economics, highest honors; special distinction in research and mathematics
+    institution: University of South Carolina — Darla Moore School of Business
